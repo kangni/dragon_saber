@@ -32,3 +32,17 @@ val result = {
 }
 
 println(result)
+
+
+
+// practice
+
+val a: Int = 1
+
+val b: Int = 5
+
+if (b > a) {
+  println("a is less than b")
+} else {
+  println("b is less than a")
+}
